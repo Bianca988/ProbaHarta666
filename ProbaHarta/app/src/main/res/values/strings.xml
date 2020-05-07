@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProbaHarta</string>
+    <string name="storage_permission_denied_message" />
+    <string name="button_close" />
+    <string name="example_simple_title" />
+    <string name="example_MainActivity" />
+</resources>
